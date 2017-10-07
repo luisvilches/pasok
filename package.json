@@ -1,0 +1,17 @@
+{
+  "name": "findfiles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "filehound": "^1.16.2",
+    "find-remove": "^1.0.1"
+  }
+}
